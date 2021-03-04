@@ -1,1 +1,1 @@
-# School-Canteen-Management-System
+# College-Canteen-Management-System
